@@ -51,3 +51,4 @@ After it has been created we will open Log Analytics in Azure and select the one
 
 <img width="1507" height="717" alt="image" src="https://github.com/user-attachments/assets/8fa96dc5-04cf-473b-b24e-924797a9820a" />
 
+It just works! The Cloud lab configuration is now setup.
